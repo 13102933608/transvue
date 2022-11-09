@@ -1,0 +1,18 @@
+/* 全局样式 */
+html,body,#app{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.el-card{
+    margin-top:30px;
+    box-shadow: 0 1px 1px rgba(0,8,10,0.15) !important;
+}
+.el-table{
+    margin-top: 30px;
+    font-size: 16px;
+    min-width: 500px;
+   
+}
+
